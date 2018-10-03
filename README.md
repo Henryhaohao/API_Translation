@@ -9,9 +9,9 @@
     
 ****
 ## :dolphin:声明
-软件均仅用于学习交流，请勿用于任何商业用途！感谢大家！
+### 软件均仅用于学习交流，请勿用于任何商业用途！感谢大家！
 ## :dolphin:介绍
-该项目为目前常见的八个翻译网站的API
+### 该项目为目前常见的八个翻译网站的API
 > - **百度翻译 - https://fanyi.baidu.com/**
 > - **谷歌翻译 - https://translate.google.cn/**
 > - **有道翻译 - http://fanyi.youdao.com/**
